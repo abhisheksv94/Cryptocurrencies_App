@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_fdc4acaae6a595dbe3de2ea895a1420523145505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_cc9bf6a157bc4ba423d6578c209df8ebb5849d0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.3_6e7bb10d2ce88e33934081168d5f22763af031a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ab209d79505c83d5ba04420f956c8c0f452f8308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_b25f7a608eab1299cb1e352bcf1a3bea5bf692d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_6e3443dcfdb52c538d8eb32f541aad33857a9085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_7550ec18555046e1070cdd1e6a1c0f0df963c6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_04a37ce4364a2a09c1a9bd5b383e80451bacb6b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b63858dd90f5c0cd4a810792bfbf76c2c712e2ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_e73f65d941cb64c3bf3e5bed1f83c98a3c9c4ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ea890d8969a75620f38accd15d23df6eaed4718a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/assignmentProject/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="05643f02cff0960d606dc963a82dfff32e6eefe0">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/assignmentProject-react-native-svg-unspecified_12c78ce8b9e200cec16e79f6a30bd5ffb4facb63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a53511db28192f5829869664285aa7ca40b45396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_071a7756d11b1737be7076b6a878a8e3d858ffb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3b79a6935e1046d32b09cdbd6c175b65faf38515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d799ec3c1a3f664c7ae2fcf61ee37009265949d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_3960edb771b1dd3d1cc9aa32e64ad42c2c2e5eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a64d5f744b1751049e084780f0ee89b084242857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_68563d61249aada975f54331b9ecd07a589f1afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ced8321fe4401dbeab23791e2c4529818b1cd024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_33334121b2fcd12ca4a1e3bdbf516f7e3e3f345a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Abhishek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Abhishek/Code/ReactNative/React-Native-Assignment/abhishek-reactnative-assingment/assignmentProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_81e107a62e9364cbd1fb7bd7591fd164ab73a481.jar" />
+    </item>
+
+</items>
